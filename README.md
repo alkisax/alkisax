@@ -30,7 +30,7 @@
 - **Frontend**: HTML, CSS, Bootstrap, React
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, SQL
-- **Tools**: GitHub
+- **Tools**: GitHub, Postman
 
 ## 🎓 Certificates & Online Education
 
@@ -46,6 +46,31 @@
 - **MOOC.fi**: [Java Programming II](https://certificates.mooc.fi/validate/5mk7hj9qri)
 
 ## 🚀 Projects
+## REACT projects:
+
+### 🔮 Tarot API
+A tarot reading API that selects random tarot cards and uses OpenAI's GPT API to provide interpretations, with MongoDB integration to store user queries. (setings password: settings)
+- **[Live Demo](https://biasedtarot.onrender.com)** / **[Source Code](https://github.com/alkisax/biasedTarotReactViteNode)** / **[Full README](https://github.com/alkisax/biasedTarotReactViteNode/blob/main/README.md)**
+
+### 📝 NotesApp
+A full-stack application built with React frontend and Node.js/Express backend allowing users to securely log in, create, view, and manage notes. (test username: alkisax, password: 123)
+- **[Live Demo](https://notesapp-ig29.onrender.com)** / **[Source Code](https://github.com/alkisax/notesApp)** / **[Full README](https://github.com/alkisax/notesApp/blob/main/README.MD)**
+
+### ☎️ Phonebook Application
+This project is a full-stack phonebook application built using React for the frontend and Node.js with Express and MongoDB for the backend. The app allows users to add, update, delete, and filter contacts.
+- **[Run the App](https://finlandmoocfullstackpart3.onrender.com)** / **Github source code: [frontend](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/phonebook)** - **[backend](https://github.com/alkisax/FinlandMoocFullStackPart3)** / **[Full README](https://github.com/alkisax/FinlandMoocFullStackPart3/blob/main/USERREADME.md)**
+
+### 🌎 CountriesData App
+An interactive React-based application that allows users to search and explore detailed information about countries around the world, including demographic data, geographical information, and current weather conditions.
+- **[Live Demo](https://alkisax.github.io/coutnriesData/)** / **[Source Code](https://github.com/alkisax/coutnriesData)** / **[Alternative Source](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/countriesdata/src)**
+
+### ⏱️ Pomodoro Timer
+An implementation of the popular Pomodoro Technique, alternating between focused work sessions and refreshing breaks to maximize productivity while preventing burnout.
+- **[Live Demo](https://lnkd.in/diHH8Ydn)** / **[Source Code](https://lnkd.in/dnwQUi-j)** / **[Full README](https://lnkd.in/dninheDZ)**
+
+### 🧮 Calculator App
+A fully functional calculator app that allows users to perform basic arithmetic operations, including support for unary operators and handling of consecutive operators.
+- **[Live Demo](https://lnkd.in/dimiVhy6)** / **[Source Code](https://lnkd.in/demXJx8m)** / **[Full README](https://lnkd.in/dwMByXYd)**
 
 ## Java CLI projects:
 ### ❌⭕ Tic-Tac-Toe (Java CLI)
@@ -54,45 +79,6 @@ A simple command-line Tic-Tac-Toe game implemented in Java, where two players ta
 ### 🎭 Theater Seat Booking System (Java CLI)
 A command-line application for managing seat bookings in a theater with 30 rows and 12 columns. Users can book and cancel seats, with real-time validation to prevent double-booking or invalid selections.
 [Source Code](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise105/Exercise105.java) / [App output](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise105/copyFromTerminalExercise105.txt) / [Full README](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise105/README.md)
-
-
-## REACT projects:
-
-### 📝 NotesApp
-
-A full-stack application built with React frontend and Node.js/Express backend allowing users to securely log in, create, view, and manage notes.
-
-- **[Live Demo](https://notesapp-ig29.onrender.com)** / **[Source Code](https://github.com/alkisax/notesApp)** / **[Full README](https://github.com/alkisax/notesApp/blob/main/README.MD)**
-
-### 🧮 Calculator App
-
-A fully functional calculator app that allows users to perform basic arithmetic operations, including support for unary operators and handling of consecutive operators.
-
-- **[Live Demo](https://lnkd.in/dimiVhy6)** / **[Source Code](https://lnkd.in/demXJx8m)** / **[Full README](https://lnkd.in/dwMByXYd)**
-
-### ⏱️ Pomodoro Timer
-
-An implementation of the popular Pomodoro Technique, alternating between focused work sessions and refreshing breaks to maximize productivity while preventing burnout.
-
-- **[Live Demo](https://lnkd.in/diHH8Ydn)** / **[Source Code](https://lnkd.in/dnwQUi-j)** / **[Full README](https://lnkd.in/dninheDZ)**
-
-### 🌎 CountriesData App
-
-An interactive React-based application that allows users to search and explore detailed information about countries around the world, including demographic data, geographical information, and current weather conditions.
-
-- **[Live Demo](https://alkisax.github.io/coutnriesData/)** / **[Source Code](https://github.com/alkisax/coutnriesData)** / **[Alternative Source](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/countriesdata/src)**
-
-### ☎️ Phonebook Application
-
-**[Run the App](https://finlandmoocfullstackpart3.onrender.com)** / **Github source code: [frontend](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/phonebook)** // **[backend](https://github.com/alkisax/FinlandMoocFullStackPart3)** / **[Full README](https://github.com/alkisax/FinlandMoocFullStackPart3/blob/main/USERREADME.md)**
-
-This project is a full-stack phonebook application built using React for the frontend and Node.js with Express and MongoDB for the backend. The app allows users to add, update, delete, and filter contacts.
-
-### 🔮 Tarot API
-
-A tarot reading API that selects random tarot cards and uses OpenAI's GPT API to provide interpretations, with MongoDB integration to store user queries.
-
-- **[Live Demo](https://biasedtarot.onrender.com)** / **[Source Code](https://github.com/alkisax/biasedTarotReactViteNode)** / **[Full README](https://github.com/alkisax/biasedTarotReactViteNode/blob/main/README.md)**
 
 ## 📊 GitHub Stats
 
