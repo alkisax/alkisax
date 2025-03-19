@@ -84,6 +84,7 @@ A tarot reading API that selects random tarot cards and uses OpenAI's GPT API to
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkisax&layout=compact&theme=radical" alt="Most Used Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkisax&theme=radical" alt="GitHub Streak" />
 </div>
 
