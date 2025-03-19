@@ -22,10 +22,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzMDM2MWQ5OGIzZTMxOTdkMjMzYjA4MGZjMzAzNWE4ZDM2MTBhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" height="60" alt="GitHub"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlhMDMyNTkwNTkzMzYwNGM1OGYzMDE5MjFmNDJkYzA0MzAzZTUwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IdyAQJVN2kVPNUrojM/giphy.gif" width="60" height="60" alt="VSCode"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" height="60" alt="Java"/>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60" alt="Bootstrap"/>
-
-
 </div>
 
 ## 🌟 Skills
