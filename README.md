@@ -71,6 +71,16 @@ An interactive React-based application that allows users to search and explore d
 
 - **[Live Demo](https://alkisax.github.io/coutnriesData/)** / **[Source Code](https://github.com/alkisax/coutnriesData)** / **[Alternative Source](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/countriesdata/src)**
 
+### ☎️ Phonebook Application
+
+**Run the App:** https://finlandmoocfullstackpart3.onrender.com
+
+**Github source code:** [frontend](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/phonebook) // [backend](https://github.com/alkisax/FinlandMoocFullStackPart3)
+
+**Full README:** https://github.com/alkisax/FinlandMoocFullStackPart3/blob/main/USERREADME.md
+
+This project is a full-stack phonebook application built using React for the frontend and Node.js with Express and MongoDB for the backend. The app allows users to add, update, delete, and filter contacts.
+
 ### 🔮 Tarot API
 
 A tarot reading API that selects random tarot cards and uses OpenAI's GPT API to provide interpretations, with MongoDB integration to store user queries.
