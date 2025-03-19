@@ -12,16 +12,16 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBjODQ0NzM1YTcxY2JkMjIxMzIwMjU4ODM5Y2M1MTg3ZWQyNDI5NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMt9638dO8dftAjtco/giphy.gif" width="60" height="60" alt="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" height="60" alt="Java"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNmMjIwM2Y2OGQzMjFmMjRjODEzMmRmYjc4MmQzYjVhMjJkNmY0ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" alt="JavaScript"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNlZTYwNmQyMzFmNzFhM2QyNDFiMzY3MjlmOTFjOWVhMGI0YTk1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" height="60" alt="HTML5"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNkODgzNzVhMzk3NmNhMTZmZWZjZDU5NTM3YTRhM2M5YTdlMzM3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="60" alt="CSS3"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60" alt="Bootstrap"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYmQ2NWNiOWRkOGVmZWI5N2I0YzI4YWE2YjA5YmY2ZjVkMmI3MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" alt="React"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY3ZDMzYWYxMmFkYWI3YTA4YmY5ZmJmMjM5YTg4ZjYxNWRkNTk0MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" alt="Node.js"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNkODgzNzVhMzk3NmNhMTZmZWZjZDU5NTM3YTRhM2M5YTdlMzM3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="60" alt="CSS3"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNlZTYwNmQyMzFmNzFhM2QyNDFiMzY3MjlmOTFjOWVhMGI0YTk1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" height="60" alt="HTML5"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRjMjVlNWI5NGRhNjJiMDY1ZDI5NTE2NjFkZjIzOTlmYzM2NmY3ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60" height="60" alt="MongoDB"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM3MzVjMzgzNTg3NjZkZmE1YzM0NjAyYTI4MmM1MGYyZmFlYjRkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/EK5nB6wQKKN86j7GWx/giphy.gif" width="60" height="60" alt="SQL"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzMDM2MWQ5OGIzZTMxOTdkMjMzYjA4MGZjMzAzNWE4ZDM2MTBhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" height="60" alt="GitHub"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" height="60" alt="Java"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60" alt="Bootstrap"/>
 </div>
 
 ## 🌟 Skills
