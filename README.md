@@ -36,9 +36,9 @@
 ## 🎓 Certificates & Online Education
 
 - **Harvard CS50x**: [Introduction to Computer Science](https://certificates.cs50.io/c9c0599f-9c09-493e-9c36-2e2c3788a3c0.pdf?size=letter)
-- **Harvard CS50w**: [Web Programming with Python and JavaScript](https://certificates.cs50.io/c9cbd557-df81-4eb2-8cab-7d388fc9db0e.pdf?size=letter)
-- **Harvard CS50p**: [Introduction to Programming with Python](https://certificates.cs50.io/6f95b680-f7dd-4db6-ab23-799a255a835c.pdf?size=letter)
-- **Harvard CS50ai**: [Introduction to Artificial Intelligence with Python](https://certificates.cs50.io/30cbdbe8-6aa0-43e9-9d91-dcdb9d98f64e.pdf?size=letter)
+- **Harvard CS50w**: [Introduction to Artificial Intelligence with Python](https://certificates.cs50.io/c9cbd557-df81-4eb2-8cab-7d388fc9db0e.pdf?size=letter)
+- **Harvard CS50p**: [Intorduction to Databases with SQL](https://certificates.cs50.io/6f95b680-f7dd-4db6-ab23-799a255a835c.pdf?size=letter)
+- **Harvard CS50ai**: [Web Programming with Python and JavaScript](https://certificates.cs50.io/30cbdbe8-6aa0-43e9-9d91-dcdb9d98f64e.pdf?size=letter)
 - **Harvard CS50m**: [Introduction to Programming with Python](https://certificates.cs50.io/c3e227a7-65bd-4f56-b841-e436d49c256b.pdf?size=letter)
 - **University of Helsinki**: [Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/c21df55738a5d0001cd92281e32fd583)
 - **FreeCodeCamp**: [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/PelopidasKopakakis/javascript-algorithms-and-data-structures-v8)
