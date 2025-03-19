@@ -47,6 +47,17 @@
 
 ## 🚀 Projects
 
+## Java CLI projects:
+### ❌⭕ Tic-Tac-Toe (Java CLI)
+A simple command-line Tic-Tac-Toe game implemented in Java, where two players take turns placing their marks on a 3x3 grid. The game ensures valid moves, detects wins, and handles draws.
+[Source Code](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise104/Exercise104.java) / [Game Output](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise104/copyFromTerminalExercise104.txt) / [Full README](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise104/README.md)
+### 🎭 Theater Seat Booking System (Java CLI)
+A command-line application for managing seat bookings in a theater with 30 rows and 12 columns. Users can book and cancel seats, with real-time validation to prevent double-booking or invalid selections.
+[Source Code](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise105/Exercise105.java) / [App output](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise105/copyFromTerminalExercise105.txt) / [Full README](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise105/README.md)
+
+
+## REACT projects:
+
 ### 📝 NotesApp
 
 A full-stack application built with React frontend and Node.js/Express backend allowing users to securely log in, create, view, and manage notes.
