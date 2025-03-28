@@ -25,16 +25,15 @@
   <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="60" height="60" alt="Postman"/>
   <img src="https://camo.githubusercontent.com/25d25cd0312f9e81b653fbdd33d2b04c49f03dede7fe5c89d4aeabb9a83ec739/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f3334656e74386c792f70726f64756374696f6e2f656333376133363630373034653166613262343234366339613031616233346531343531393461642d383234783832342e706e67" width="60" height="60" alt="Render"/>
   <img src="https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg" width="60" height="60" alt="Cypress E2E Testing"/>
-  <img 
-src="https://github.com/user-attachments/assets/4fd5764e-9b7b-4497-91a2-0a8e3fbb6460" height="60" alt="Jest Testing"/>
-
-
+  <img src="https://github.com/user-attachments/assets/4fd5764e-9b7b-4497-91a2-0a8e3fbb6460" height="60" alt="Jest Testing"/>
+  <img src="https://redux.js.org/img/redux.svg" width="60" height="60" alt="Redux"/>
+  
 </div>
 
 ## 🌟 Skills
 
 - **Languages**: Python, Java, JavaScript
-- **Frontend**: HTML, CSS, Bootstrap, React
+- **Frontend**: HTML, CSS, Bootstrap, React, Redux
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, SQL
 - **Tools**: GitHub, Postman, Render, Cypress, Jest
