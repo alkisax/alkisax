@@ -56,7 +56,7 @@
 ## REACT projects:
 
 ### 🔐 LoginApp
-A secure full-stack authentication system built with React, Node.js, Express, and MongoDB. This app was created as a reusable component for a generic log in usage in future apps. Supports user registration, login with JWT, Google OAuth login, and role-based access control. Features include hashed passwords, token verification, and protected API routes. Apart from the read me, includes a full analytical tutorial of how the app was created
+A secure full-stack authentication system built with React, Node.js, Express, and MongoDB. This app was created as a reusable component for a generic log in usage in future apps. Supports user registration, login with JWT, Google OAuth login, and role-based access control. Features include hashed passwords, token verification, and protected API routes. Apart from the read me, includes a full analytical tutorial of how the app was created (testing username: alkisax, password: 123)
 
 - **[Live Demo](https://loginapp-tjlf.onrender.com) / [Source Code - https://github.com/alkisax/loginAPP/](https://github.com/alkisax/loginAPP/) / [Full README](https://github.com/alkisax/loginAPP/blob/main/README2.MD) / [Tutorial](https://github.com/alkisax/loginAPP/blob/main/README.MD)**
 
