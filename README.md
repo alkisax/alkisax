@@ -55,13 +55,18 @@
 ## 🚀 Projects
 ## REACT projects:
 
+### 🔐 LoginApp
+A secure full-stack authentication system built with React, Node.js, Express, and MongoDB. This app was created as a reusable component for a generic log in usage in future apps. Supports user registration, login with JWT, Google OAuth login, and role-based access control. Features include hashed passwords, token verification, and protected API routes. Apart from the read me, includes a full analytical tutorial of how the app was created
+
+- **[Live Demo](https://loginapp-tjlf.onrender.com) / [Source Code](https://loginapp-tjlf.onrender.com) / [Full README](https://github.com/alkisax/loginAPP/blob/main/README2.MD) / [Tutorial](https://github.com/alkisax/loginAPP/blob/main/README.MD)**
+
 ### 🔮 Tarot API
 A tarot reading API that selects random tarot cards and uses OpenAI's GPT API to provide interpretations, with MongoDB integration to store user queries. (setings password: settings)
 - **[Live Demo](https://biasedtarot.onrender.com)** / **[Source Code](https://github.com/alkisax/biasedTarotReactViteNode)** / **[Full README](https://github.com/alkisax/biasedTarotReactViteNode/blob/main/README.md)**
 
 ### 📝 NotesApp
 A full-stack application built with React frontend and Node.js/Express backend allowing users to securely log in, create, view, and manage notes. (test username: alkisax, password: 123)
-- **[Live Demo](https://notesapp-ig29.onrender.com)** / **[Source Code](https://github.com/alkisax/notesApp)** / **[Full README](https://github.com/alkisax/notesApp/blob/main/README.MD)**
+- **[Live Demo](https://notesapp-ig29.onrender.com)** / **[Source Code - https://github.com/alkisax/notesApp](https://github.com/alkisax/notesApp)** / **[Full README](https://github.com/alkisax/notesApp/blob/main/README.MD)**
 
 ### ☎️ Phonebook Application
 This project is a full-stack phonebook application built using React for the frontend and Node.js with Express and MongoDB for the backend. The app allows users to add, update, delete, and filter contacts.
