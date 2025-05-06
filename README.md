@@ -56,6 +56,14 @@
 ## 🚀 Projects
 ## REACT projects:
 
+#### 🔮🔮 Biased Tarot Application
+This project is a full-stack application built using the **MERN stack** (MongoDB, Express, React, Node.js). It combines Tarot card readings powered by GPT, secure login functionality, and donation management.
+The app is live at **[Biased Tarot Revisited](https://revistedtarotbiasapp.onrender.com)**  
+📖 **Full development guide:** [instructions.md](https://github.com/alkisax/revistedTarotBiasApp/blob/main/instructions.md)  
+**github rep** [github](https://github.com/alkisax/revistedTarotBiasApp/tree/main)
+**App screenshots** [screenshots](https://github.com/alkisax/revistedTarotBiasApp/tree/main/appScreenshots)
+**README** [README](https://github.com/alkisax/revistedTarotBiasApp/blob/main/README.MD)
+
 ### 🔐 LoginApp
 A secure full-stack authentication system built with React, Node.js, Express, and MongoDB. This app was created as a reusable component for a generic log in usage in future apps. Supports user registration, login with JWT, Google OAuth login, and role-based access control. Features include hashed passwords, token verification, and protected API routes. Apart from the read me, includes a full analytical tutorial of how the app was created (testing username: alkisax, password: 123)
 
