@@ -28,6 +28,7 @@
   <img src="https://camo.githubusercontent.com/25d25cd0312f9e81b653fbdd33d2b04c49f03dede7fe5c89d4aeabb9a83ec739/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f3334656e74386c792f70726f64756374696f6e2f656333376133363630373034653166613262343234366339613031616233346531343531393461642d383234783832342e706e67" width="60" height="60" alt="Render"/>
   <img src="https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg" width="60" height="60" alt="Cypress E2E Testing"/>
   <img src="https://github.com/user-attachments/assets/4fd5764e-9b7b-4497-91a2-0a8e3fbb6460" height="60" alt="Jest Testing"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="60" height="60" alt="Swagger API Documentation"/>
   <img src="https://redux.js.org/img/redux.svg" width="60" height="60" alt="Redux"/>
   
 </div>
@@ -38,7 +39,7 @@
 - **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, SQL
-- **Tools**: GitHub, Postman, Render, Cypress, Jest
+- **Tools**: GitHub, Postman, Render, Cypress, Jest, Swagger
 
 ## 🎓 Certificates & Online Education
 
