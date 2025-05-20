@@ -55,9 +55,18 @@
 - **MOOC.fi**: [Java Programming II](https://certificates.mooc.fi/validate/5mk7hj9qri)
 
 ## 🚀 Projects
+## Angular projects:
+### 🅰️ Angular Todo & Weather App  
+A modern **full-stack learning project** built with **Angular 19** (frontend) and **Node.js/Express/MongoDB** (backend). Combines **weather API integration**, a **random number generator**, and a complete **CRUD Todo system**. Focuses on Angular's **new control flow syntax (@if/@for)**, **Angular Material UI**, and backend **API documentation with Swagger**.  
+
+🔗 [Live Demo](https://simpletodoangularapp.onrender.com/)  
+📁 [GitHub Repository](https://github.com/alkisax/simpleTodoAngularApp)  
+📘 [Step-by-Step Guide](https://github.com/alkisax/simpleTodoAngularApp/blob/main/instractionsTodoAngular.md)  
+📄 [Full README](https://github.com/alkisax/simpleTodoAngularApp/blob/main/README.md)
+
 ## REACT projects:
 
-#### 🔮🔮 Biased Tarot Application
+### 🔮🔮 Biased Tarot Application
 This project is a full-stack application built using the **MERN stack** (MongoDB, Express, React, Node.js). It combines Tarot card readings powered by GPT, secure login functionality, and donation management.
 The app is live at **[Biased Tarot Revisited](https://revistedtarotbiasapp.onrender.com)**  
 📖 **Full development guide:** [instructions.md](https://github.com/alkisax/revistedTarotBiasApp/blob/main/instructions.md)  
