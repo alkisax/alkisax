@@ -62,7 +62,8 @@ A modern **full-stack learning project** built with **Angular 19** (frontend) an
 🔗 [Live Demo](https://simpletodoangularapp.onrender.com/)  
 📁 [GitHub Repository](https://github.com/alkisax/simpleTodoAngularApp)  
 📘 [Step-by-Step Guide](https://github.com/alkisax/simpleTodoAngularApp/blob/main/instractionsTodoAngular.md)  
-📄 [Full README](https://github.com/alkisax/simpleTodoAngularApp/blob/main/README.md)
+📄 [Full README](https://github.com/alkisax/simpleTodoAngularApp/blob/main/README.md)  
+[swagger api-docs](https://simpletodoangularapp.onrender.com/api-docs/)
 
 ## REACT projects:
 
