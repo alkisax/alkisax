@@ -18,7 +18,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNkODgzNzVhMzk3NmNhMTZmZWZjZDU5NTM3YTRhM2M5YTdlMzM3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="60" alt="CSS3"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60" alt="Bootstrap"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYmQ2NWNiOWRkOGVmZWI5N2I0YzI4YWE2YjA5YmY2ZjVkMmI3MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" alt="React"/>
-  <img src="https://angular-gr.web.app/assets/images/logos/angular/angular.svg" height="60" alt="Angular"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="60" alt="Angular"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="60" alt="Laravel"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY3ZDMzYWYxMmFkYWI3YTA4YmY5ZmJmMjM5YTg4ZjYxNWRkNTk0MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" alt="Node.js"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRjMjVlNWI5NGRhNjJiMDY1ZDI5NTE2NjFkZjIzOTlmYzM2NmY3ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60" height="60" alt="MongoDB"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM3MzVjMzgzNTg3NjZkZmE1YzM0NjAyYTI4MmM1MGYyZmFlYjRkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/EK5nB6wQKKN86j7GWx/giphy.gif" width="60" height="60" alt="SQL"/>
@@ -36,7 +37,7 @@
 ## 🌟 Skills
 
 - **Languages**: Python, Java, JavaScript
-- **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular
+- **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular, Laravel
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, SQL
 - **Tools**: GitHub, Postman, Render, Cypress, Jest, Swagger
@@ -55,16 +56,6 @@
 - **MOOC.fi**: [Java Programming II](https://certificates.mooc.fi/validate/5mk7hj9qri)
 
 ## 🚀 Projects
-## Angular projects:
-### 🅰️ Angular Todo & Weather App  
-A modern **full-stack learning project** built with **Angular 19** (frontend) and **Node.js/Express/MongoDB** (backend). Combines **weather API integration**, a **random number generator**, and a complete **CRUD Todo system**. Focuses on Angular's **new control flow syntax (@if/@for)**, **Angular Material UI**, and backend **API documentation with Swagger**.  
-
-🔗 [Live Demo](https://simpletodoangularapp.onrender.com/)  
-📁 [GitHub Repository](https://github.com/alkisax/simpleTodoAngularApp)  
-📘 [Step-by-Step Guide](https://github.com/alkisax/simpleTodoAngularApp/blob/main/instractionsTodoAngular.md)  
-📄 [Full README](https://github.com/alkisax/simpleTodoAngularApp/blob/main/README.md)  
-[swagger api-docs](https://simpletodoangularapp.onrender.com/api-docs/)
-
 ## REACT projects:
 
 ### 🔮🔮 Biased Tarot Application
@@ -103,6 +94,25 @@ An implementation of the popular Pomodoro Technique, alternating between focused
 ### 🧮 Calculator App
 A fully functional calculator app that allows users to perform basic arithmetic operations, including support for unary operators and handling of consecutive operators.
 - **[Live Demo](https://lnkd.in/dimiVhy6)** / **[Source Code](https://lnkd.in/demXJx8m)** / **[Full README](https://lnkd.in/dwMByXYd)**
+
+## Angular projects:
+### 🅰️ Angular Todo & Weather App  
+A modern **full-stack learning project** built with **Angular 19** (frontend) and **Node.js/Express/MongoDB** (backend). Combines **weather API integration**, a **random number generator**, and a complete **CRUD Todo system**. Focuses on Angular's **new control flow syntax (@if/@for)**, **Angular Material UI**, and backend **API documentation with Swagger**.  
+
+🔗 [Live Demo](https://simpletodoangularapp.onrender.com/)  
+📁 [GitHub Repository](https://github.com/alkisax/simpleTodoAngularApp)  
+📘 [Step-by-Step Guide](https://github.com/alkisax/simpleTodoAngularApp/blob/main/instractionsTodoAngular.md)  
+📄 [Full README](https://github.com/alkisax/simpleTodoAngularApp/blob/main/README.md)  
+[swagger api-docs](https://simpletodoangularapp.onrender.com/api-docs/)
+
+## Laravel projects:
+## 🧱 Simple ToDo & Weather client & random number app
+###  Laravel Learning Project - Todo App with Weather & Random Generator
+A practical Laravel Blade project demonstrating foundational concepts of PHP and Laravel through a full-stack web application.  
+🔗 app is live at [simpleToDoLaravel](https://simpletodolaravel.onrender.com)  
+📁 [GitHub Repository](https://github.com/alkisax/simpleTodoLaravel)  
+📄 [README.md](https://github.com/alkisax/simpleTodoLaravel/blob/main/README.md)  
+📘 step by step instructions md of how the app was made [Instructions](https://github.com/alkisax/simpleTodoLaravel/blob/main/todoInstructionsLaravel.md)
 
 ## Java CLI projects:
 ### ❌⭕ Tic-Tac-Toe (Java CLI)
