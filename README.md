@@ -37,8 +37,8 @@
 ## 🌟 Skills
 
 - **Languages**: Python, Java, JavaScript
-- **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular, Laravel
-- **Backend**: Node.js, Express
+- **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular
+- **Backend**: Node.js, Express, Laravel 
 - **Databases**: MongoDB, SQL
 - **Tools**: GitHub, Postman, Render, Cypress, Jest, Swagger
 
