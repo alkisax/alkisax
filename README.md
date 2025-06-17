@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBjODQ0NzM1YTcxY2JkMjIxMzIwMjU4ODM5Y2M1MTg3ZWQyNDI5NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMt9638dO8dftAjtco/giphy.gif" width="60" height="60" alt="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" height="60" alt="Java"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="60" height="60" alt="php"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNmMjIwM2Y2OGQzMjFmMjRjODEzMmRmYjc4MmQzYjVhMjJkNmY0ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" alt="JavaScript"/>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNlZTYwNmQyMzFmNzFhM2QyNDFiMzY3MjlmOTFjOWVhMGI0YTk1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" height="60" alt="HTML5"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNkODgzNzVhMzk3NmNhMTZmZWZjZDU5NTM3YTRhM2M5YTdlMzM3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="60" alt="CSS3"/>
@@ -36,7 +37,7 @@
 
 ## 🌟 Skills
 
-- **Languages**: Python, Java, JavaScript
+- **Languages**: Python, Java, php, JavaScript
 - **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular
 - **Backend**: Node.js, Express, Laravel 
 - **Databases**: MongoDB, SQL
