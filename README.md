@@ -59,6 +59,17 @@
 ## 🚀 Projects
 ## REACT projects:
 
+### 📌 Blog & Dashboard CMS
+This project is a **full-stack blog CMS - content management system built with the MERN stack** (MongoDB, Express, React, Node.js).  
+It features a **powerful rich-text editor (Editor.js)** that supports titles, bold/italic text, quotes, ordered/unordered lists, file uploads, embedded content, and images.  
+The system includes **pinned posts**, **subpage creation (categories)**, and full **CRUD operations** for blog posts.  
+An integrated **file upload manager** allows easy handling of images and other assets.  
+The **homepage** displays a welcome message, all pinned posts, and the **latest 3 posts**.
+
+- **Live App:** [https://bloganddashboard.onrender.com](https://bloganddashboard.onrender.com)  
+- **GitHub Repo:** [https://github.com/alkisax/BlogAndDashboard](https://github.com/alkisax/BlogAndDashboard)  
+- **README:** [README.md](https://github.com/alkisax/BlogAndDashboard/blob/main/README.md)
+
 ### 🔮🔮 Biased Tarot Application
 This project is a full-stack application built using the **MERN stack** (MongoDB, Express, React, Node.js). It combines Tarot card readings powered by GPT, secure login functionality, and donation management.
 The app is live at **[Biased Tarot Revisited](https://revistedtarotbiasapp.onrender.com)**  
