@@ -15,6 +15,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" height="60" alt="Java"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="60" height="60" alt="php"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNmMjIwM2Y2OGQzMjFmMjRjODEzMmRmYjc4MmQzYjVhMjJkNmY0ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" alt="JavaScript"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNmMjIwM2Y2OGQzMjFmMjRjODEzMmRmYjc4MmQzYjVhMjJkNmY0ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" alt="JavaScript"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="60" height="60" alt="TypeScript"/>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNlZTYwNmQyMzFmNzFhM2QyNDFiMzY3MjlmOTFjOWVhMGI0YTk1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" height="60" alt="HTML5"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNkODgzNzVhMzk3NmNhMTZmZWZjZDU5NTM3YTRhM2M5YTdlMzM3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="60" alt="CSS3"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60" alt="Bootstrap"/>
@@ -37,7 +38,7 @@
 
 ## 🌟 Skills
 
-- **Languages**: Python, Java, php, JavaScript
+- **Languages**: Python, Java, php, JavaScript/Typescript
 - **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular
 - **Backend**: Node.js, Express, Laravel 
 - **Databases**: MongoDB, SQL
@@ -50,7 +51,7 @@
 - **Harvard CS50p**: [Intorduction to Databases with SQL](https://certificates.cs50.io/6f95b680-f7dd-4db6-ab23-799a255a835c.pdf?size=letter)
 - **Harvard CS50ai**: [Web Programming with Python and JavaScript](https://certificates.cs50.io/30cbdbe8-6aa0-43e9-9d91-dcdb9d98f64e.pdf?size=letter)
 - **Harvard CS50m**: [Introduction to Programming with Python](https://certificates.cs50.io/c3e227a7-65bd-4f56-b841-e436d49c256b.pdf?size=letter)
-- **University of Helsinki**: [Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/c21df55738a5d0001cd92281e32fd583)
+- **University of Helsinki**: [Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/c21df55738a5d0001cd92281e32fd583)[TypeScript](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/14473dae9469fbe88cfbd6e2fdc8990b)
 - **FreeCodeCamp**: [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/PelopidasKopakakis/javascript-algorithms-and-data-structures-v8)
 - **FreeCodeCamp**: [Front End Development Libraries](https://www.freecodecamp.org/certification/PelopidasKopakakis/front-end-development-libraries)
 - **MOOC.fi**: [Java Programming I](https://certificates.mooc.fi/validate/urcesi2e5qk)
