@@ -33,6 +33,7 @@
   <img src="https://github.com/user-attachments/assets/4fd5764e-9b7b-4497-91a2-0a8e3fbb6460" height="60" alt="Jest Testing"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="60" height="60" alt="Swagger API Documentation"/>
   <img src="https://redux.js.org/img/redux.svg" width="60" height="60" alt="Redux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="60" height="60" alt="GraphQL"/>
   
 </div>
 
@@ -51,7 +52,7 @@
 - **Harvard CS50p**: [Intorduction to Databases with SQL](https://certificates.cs50.io/6f95b680-f7dd-4db6-ab23-799a255a835c.pdf?size=letter)
 - **Harvard CS50ai**: [Web Programming with Python and JavaScript](https://certificates.cs50.io/30cbdbe8-6aa0-43e9-9d91-dcdb9d98f64e.pdf?size=letter)
 - **Harvard CS50m**: [Introduction to Programming with Python](https://certificates.cs50.io/c3e227a7-65bd-4f56-b841-e436d49c256b.pdf?size=letter)
-- **University of Helsinki**: [Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/c21df55738a5d0001cd92281e32fd583) - [TypeScript](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/14473dae9469fbe88cfbd6e2fdc8990b)
+- **University of Helsinki**: [Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/c21df55738a5d0001cd92281e32fd583) - [TypeScript](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/14473dae9469fbe88cfbd6e2fdc8990b) - [GraphQL](https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/76a14aad3346d2b3aa6fd7cc0c7211e2)
 - **FreeCodeCamp**: [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/PelopidasKopakakis/javascript-algorithms-and-data-structures-v8)
 - **FreeCodeCamp**: [Front End Development Libraries](https://www.freecodecamp.org/certification/PelopidasKopakakis/front-end-development-libraries)
 - **MOOC.fi**: [Java Programming I](https://certificates.mooc.fi/validate/urcesi2e5qk)
