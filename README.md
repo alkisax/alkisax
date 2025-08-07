@@ -26,7 +26,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRjMjVlNWI5NGRhNjJiMDY1ZDI5NTE2NjFkZjIzOTlmYzM2NmY3ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60" height="60" alt="MongoDB"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM3MzVjMzgzNTg3NjZkZmE1YzM0NjAyYTI4MmM1MGYyZmFlYjRkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/EK5nB6wQKKN86j7GWx/giphy.gif" width="60" height="60" alt="SQL"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzMDM2MWQ5OGIzZTMxOTdkMjMzYjA4MGZjMzAzNWE4ZDM2MTBhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" height="60" alt="GitHub"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="60" height="60" alt="Postman"/>
+  <img src="https://avatars.githubusercontent.com/u/44036562" width="60" height="60" alt="CI/CD"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="60" height="60" alt="Postman"/>
 
   <img src="https://camo.githubusercontent.com/25d25cd0312f9e81b653fbdd33d2b04c49f03dede7fe5c89d4aeabb9a83ec739/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f3334656e74386c792f70726f64756374696f6e2f656333376133363630373034653166613262343234366339613031616233346531343531393461642d383234783832342e706e67" width="60" height="60" alt="Render"/>
   <img src="https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg" width="60" height="60" alt="Cypress E2E Testing"/>
@@ -43,7 +44,7 @@
 - **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular
 - **Backend**: Node.js, Express, Laravel 
 - **Databases**: MongoDB, SQL
-- **Tools**: GitHub, Postman, Render, Cypress, Jest, Swagger
+- **Tools**: GitHub, Github actions, Postman, Render, Cypress, Jest, Swagger
 
 ## 🎓 Certificates & Online Education
 
@@ -52,7 +53,7 @@
 - **Harvard CS50p**: [Intorduction to Databases with SQL](https://certificates.cs50.io/6f95b680-f7dd-4db6-ab23-799a255a835c.pdf?size=letter)
 - **Harvard CS50ai**: [Web Programming with Python and JavaScript](https://certificates.cs50.io/30cbdbe8-6aa0-43e9-9d91-dcdb9d98f64e.pdf?size=letter)
 - **Harvard CS50m**: [Introduction to Programming with Python](https://certificates.cs50.io/c3e227a7-65bd-4f56-b841-e436d49c256b.pdf?size=letter)
-- **University of Helsinki**: [Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/c21df55738a5d0001cd92281e32fd583) - [TypeScript](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/14473dae9469fbe88cfbd6e2fdc8990b) - [GraphQL](https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/76a14aad3346d2b3aa6fd7cc0c7211e2)
+- **University of Helsinki**: [Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/c21df55738a5d0001cd92281e32fd583) - [TypeScript](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/14473dae9469fbe88cfbd6e2fdc8990b) - [GraphQL](https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/76a14aad3346d2b3aa6fd7cc0c7211e2) - [CI/CD](https://studies.cs.helsinki.fi/stats/api/certificate/fs-cicd/en/9e059d677f6b12a25602fbc3ac36eb4b)
 - **FreeCodeCamp**: [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/PelopidasKopakakis/javascript-algorithms-and-data-structures-v8)
 - **FreeCodeCamp**: [Front End Development Libraries](https://www.freecodecamp.org/certification/PelopidasKopakakis/front-end-development-libraries)
 - **MOOC.fi**: [Java Programming I](https://certificates.mooc.fi/validate/urcesi2e5qk)
