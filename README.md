@@ -62,6 +62,19 @@
 ## 🚀 Projects
 ## REACT projects:
 
+### 🛒 E-Shop Project (Prototype)  
+A **full-stack e-commerce prototype built with the MERN stack + TypeScript**.  
+Supports **multi-provider login** (custom JWT, Google, GitHub, Appwrite) with role-based access (guest/user/admin).  
+Includes **store with categories & search**, product pages with **ratings, comments, multi-image gallery**, and **Stripe checkout** (card & GPay).  
+Admin panel provides **CRUD for users, categories, commodities, and announcements**, plus **Appwrite file & image uploads**.  
+💡 AI-powered features: **chat moderation (GPT wrapper)** and **semantic search with OpenAI embeddings** for finding similar commodities.  
+Extra integrations: **Google Analytics (GA4), Looker Studio dashboards, and Google Maps iframe**.  
+
+- 🚀 **Live App:** [eshopproject-ggmn.onrender.com](https://eshopproject-ggmn.onrender.com)  
+- 💻 **GitHub Repo:** [github.com/alkisax/eshopProject](https://github.com/alkisax/eshopProject)  
+
+**Tech Stack:** React, Node.js, Express, MongoDB, TypeScript, MUI, Stripe, Appwrite, OpenAI, Jest, Cypress, GitHub Actions.  
+
 ### 📌 Blog & Dashboard CMS
 This project is a **full-stack blog CMS - content management system built with the MERN stack** (MongoDB, Express, React, Node.js).  
 It features a **powerful rich-text editor (Editor.js)** that supports titles, bold/italic text, quotes, ordered/unordered lists, file uploads, embedded content, and images.  
