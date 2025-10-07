@@ -62,6 +62,19 @@
 ## 🚀 Projects
 ## REACT projects:
 
+### 🧠 KuhnGPT — Chat with *The Structure of Scientific Revolutions*
+
+**A Retrieval-Augmented Generation (RAG) app built with TypeScript and the MERN stack**
+
+> “Each paradigm shift changes not only what scientists see but also how they see it.”  
+> — Thomas S. Kuhn, *The Structure of Scientific Revolutions* (1962)
+
+**KuhnGPT** lets you have a conversation with Thomas Kuhn’s *The Structure of Scientific Revolutions* using a custom Retrieval-Augmented Generation pipeline.  
+The system indexes every paragraph of the book, vectorizes it using OpenAI embeddings, and allows the user to query and receive grounded answers with cited excerpts.
+
+- **live app:** [ragkuhnchatwithdocument.onrender.com](https://ragkuhnchatwithdocument.onrender.com)
+- **github repo:** [github.com/alkisax/ragKuhnChatWithDocument](https://github.com/alkisax/ragKuhnChatWithDocument)
+
 ### 🛒 E-Shop Project (Prototype)  
 A **full-stack e-commerce prototype built with the MERN stack + TypeScript**.  
 Supports **multi-provider login** (custom JWT, Google, GitHub, Appwrite) with role-based access (guest/user/admin).  
