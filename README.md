@@ -62,6 +62,17 @@
 ## 🚀 Projects
 ## REACT projects:
 
+### 🏢 Shared Fees Management App  
+
+A **full-stack MERN + TypeScript** application for managing shared building expenses, built for a real client.  
+Admins upload monthly **Excel files** that are automatically parsed into **GlobalBills** and per-user **Bills**.  
+Users log in, view and pay their bills, upload receipts, and track balances.  
+Admins review payments, manage users, and send building-wide announcements.  
+
+- **Live App:** [sharedfeesproject.onrender.com](https://sharedfeesproject.onrender.com)  
+- **GitHub Repo:** [github.com/alkisax/sharedFeesProject](https://github.com/alkisax/sharedFeesProject)  
+- **README:** [README.md](https://github.com/alkisax/sharedFeesProject/blob/main/README.md)
+
 ### 🧠 KuhnGPT — Chat with *The Structure of Scientific Revolutions*
 
 **A Retrieval-Augmented Generation (RAG) app built with TypeScript and the MERN stack**
