@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 
-- Currently studying at *[AUEB Coding Factory](https://codingfactory.aueb.gr)* (Expected graduation: June 2025)
+- **[AUEB Coding Factory](https://codingfactory.aueb.gr)**
 
 - **MSc in History and Philosophy of Science**
 - **BSc in Material Science**, University of Patras
