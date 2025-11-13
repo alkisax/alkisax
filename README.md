@@ -20,6 +20,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNkODgzNzVhMzk3NmNhMTZmZWZjZDU5NTM3YTRhM2M5YTdlMzM3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="60" alt="CSS3"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60" alt="Bootstrap"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYmQ2NWNiOWRkOGVmZWI5N2I0YzI4YWE2YjA5YmY2ZjVkMmI3MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60" alt="React"/>
+  <img src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/nextjs-logo-light.7bff3dae.svg" width="60" height="60" alt="NextJs"/>
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="60" alt="Angular"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="60" alt="Laravel"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY3ZDMzYWYxMmFkYWI3YTA4YmY5ZmJmMjM5YTg4ZjYxNWRkNTk0MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" alt="Node.js"/>
