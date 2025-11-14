@@ -141,10 +141,6 @@ This project is a full-stack phonebook application built using React for the fro
 An interactive React-based application that allows users to search and explore detailed information about countries around the world, including demographic data, geographical information, and current weather conditions.
 - **[Live Demo](https://alkisax.github.io/coutnriesData/)** / **[Source Code](https://github.com/alkisax/coutnriesData)** / **[Alternative Source](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/countriesdata/src)** /[Full README](https://github.com/alkisax/coutnriesData/blob/gh-pages/README.md)
 
-### ⏱️ Pomodoro Timer
-An implementation of the popular Pomodoro Technique, alternating between focused work sessions and refreshing breaks to maximize productivity while preventing burnout.
-- **[Live Demo](https://lnkd.in/diHH8Ydn)** / **[Source Code](https://lnkd.in/dnwQUi-j)** / **[Full README](https://lnkd.in/dninheDZ)**
-
 ### 🧮 Calculator App
 A fully functional calculator app that allows users to perform basic arithmetic operations, including support for unary operators and handling of consecutive operators.
 - **[Live Demo](https://lnkd.in/dimiVhy6)** / **[Source Code](https://lnkd.in/demXJx8m)** / **[Full README](https://lnkd.in/dwMByXYd)**
