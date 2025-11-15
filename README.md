@@ -137,10 +137,6 @@ A full-stack application built with React frontend and Node.js/Express backend a
 This project is a full-stack phonebook application built using React for the frontend and Node.js with Express and MongoDB for the backend. The app allows users to add, update, delete, and filter contacts.
 - **[Run the App](https://finlandmoocfullstackpart3.onrender.com)** / **Github source code: [frontend](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/phonebook)** - **[backend](https://github.com/alkisax/FinlandMoocFullStackPart3)** / **[Full README](https://github.com/alkisax/FinlandMoocFullStackPart3/blob/main/USERREADME.md)**
 
-### 🌎 CountriesData App
-An interactive React-based application that allows users to search and explore detailed information about countries around the world, including demographic data, geographical information, and current weather conditions.
-- **[Live Demo](https://alkisax.github.io/coutnriesData/)** / **[Source Code](https://github.com/alkisax/coutnriesData)** / **[Alternative Source](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/countriesdata/src)** /[Full README](https://github.com/alkisax/coutnriesData/blob/gh-pages/README.md)
-
 ### 🧮 Calculator App
 A fully functional calculator app that allows users to perform basic arithmetic operations, including support for unary operators and handling of consecutive operators.
 - **[Live Demo](https://lnkd.in/dimiVhy6)** / **[Source Code](https://lnkd.in/demXJx8m)** / **[Full README](https://lnkd.in/dwMByXYd)**
