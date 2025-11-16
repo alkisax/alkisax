@@ -133,9 +133,6 @@ A tarot reading API that selects random tarot cards and uses OpenAI's GPT API to
 A full-stack application built with React frontend and Node.js/Express backend allowing users to securely log in, create, view, and manage notes. (test username: alkisax, password: 123)
 - **[Live Demo](https://notesapp-ig29.onrender.com)** / **[Source Code - https://github.com/alkisax/notesApp](https://github.com/alkisax/notesApp)** / **[Full README](https://github.com/alkisax/notesApp/blob/main/README.MD)**
 
-### ☎️ Phonebook Application
-This project is a full-stack phonebook application built using React for the frontend and Node.js with Express and MongoDB for the backend. The app allows users to add, update, delete, and filter contacts.
-- **[Run the App](https://finlandmoocfullstackpart3.onrender.com)** / **Github source code: [frontend](https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/phonebook)** - **[backend](https://github.com/alkisax/FinlandMoocFullStackPart3)** / **[Full README](https://github.com/alkisax/FinlandMoocFullStackPart3/blob/main/USERREADME.md)**
 
 ### 🧮 Calculator App
 A fully functional calculator app that allows users to perform basic arithmetic operations, including support for unary operators and handling of consecutive operators.
