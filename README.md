@@ -125,9 +125,6 @@ A secure full-stack authentication system built with React, Node.js, Express, an
 
 - **[Live Demo](https://loginapp-tjlf.onrender.com) / [Source Code - https://github.com/alkisax/loginAPP/](https://github.com/alkisax/loginAPP/) / [Full README](https://github.com/alkisax/loginAPP/blob/main/README2.MD) / [Tutorial](https://github.com/alkisax/loginAPP/blob/main/README.MD)**
 
-### 🔮 Tarot API
-A tarot reading API that selects random tarot cards and uses OpenAI's GPT API to provide interpretations, with MongoDB integration to store user queries. (setings password: settings)
-- **[Live Demo](https://biasedtarot.onrender.com)** / **[Source Code](https://github.com/alkisax/biasedTarotReactViteNode)** / **[Full README](https://github.com/alkisax/biasedTarotReactViteNode/blob/main/README.md)**
 
 ### 📝 NotesApp
 A full-stack application built with React frontend and Node.js/Express backend allowing users to securely log in, create, view, and manage notes. (test username: alkisax, password: 123)
