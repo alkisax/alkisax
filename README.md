@@ -124,11 +124,6 @@ A secure full-stack authentication system built with React, Node.js, Express, an
 - **[Live Demo](https://loginapp-tjlf.onrender.com) / [Source Code - https://github.com/alkisax/loginAPP/](https://github.com/alkisax/loginAPP/) / [Full README](https://github.com/alkisax/loginAPP/blob/main/README2.MD) / [Tutorial](https://github.com/alkisax/loginAPP/blob/main/README.MD)**
 
 
-### 📝 NotesApp
-A full-stack application built with React frontend and Node.js/Express backend allowing users to securely log in, create, view, and manage notes. (test username: alkisax, password: 123)
-- **[Live Demo](https://notesapp-ig29.onrender.com)** / **[Source Code - https://github.com/alkisax/notesApp](https://github.com/alkisax/notesApp)** / **[Full README](https://github.com/alkisax/notesApp/blob/main/README.MD)**
-
-
 ### 🧮 Calculator App
 A fully functional calculator app that allows users to perform basic arithmetic operations, including support for unary operators and handling of consecutive operators.
 - **[Live Demo](https://lnkd.in/dimiVhy6)** / **[Source Code](https://lnkd.in/demXJx8m)** / **[Full README](https://lnkd.in/dwMByXYd)**
