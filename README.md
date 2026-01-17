@@ -94,7 +94,7 @@ Admin panel provides **CRUD for users, categories, commodities, and announcement
 💡 AI-powered features: **chat moderation (GPT wrapper)** and **semantic search with OpenAI embeddings** for finding similar commodities.  
 Extra integrations: **Google Analytics (GA4), Looker Studio dashboards, and Google Maps iframe**.  
 
-- 🚀 **Live App:** [eshopproject-ggmn.onrender.com](https://eshopproject-ggmn.onrender.com)  
+- 🚀 **Live App:** [https://eshop.portfolio-projects.space/](https://eshop.portfolio-projects.space/)  
 - 💻 **GitHub Repo:** [github.com/alkisax/eshopProject](https://github.com/alkisax/eshopProject)  
 
 **Tech Stack:** React, Node.js, Express, MongoDB, TypeScript, MUI, Stripe, Appwrite, OpenAI, Jest, Cypress, GitHub Actions.  
