@@ -1,5 +1,8 @@
 # 👋 Hello, I'm Πελοπίδας Κοπακάκης (Pelopidas Kopakakis)
 
+Full-stack developer focused on building real-world web applications with the MERN stack, Next.js and React Native.  
+I work mainly on custom business software, e-commerce systems, admin dashboards, payments, real-time workflows and production deployments.  
+
 ## 🎓 Education
 
 - **[AUEB Coding Factory](https://codingfactory.aueb.gr)**
@@ -60,16 +63,53 @@
 
 ## 🚀 Projects
 ## REACT projects:
+### 🛒 Commerce & Ordering Systems
+### 🛍️ Έχω Μια Ιδέα — Custom MERN E-Commerce Platform
+A production-oriented full-stack e-commerce system built for a real handmade jewelry store.
+The platform is developed with the MERN stack and TypeScript and focuses on maintainability, admin usability and real-world business workflows.
+It includes a complete admin panel for managing products, categories and orders, as well as a customer-facing storefront.
+Key features include Stripe payments, experimental IRIS QR payment support, email notifications for order updates, PDF generation for receipt drafts and shipping information, Excel-based product synchronization and cloud-based media storage for faster delivery and reduced server load.
+The backend architecture includes Zod validation, Helmet security middleware, rate limiting, Winston logging, Swagger API documentation and automated testing using Jest and Cypress.
+The system also includes AI-assisted features such as automated comment moderation and vector similarity product suggestions.
+The platform was designed as a reusable architecture that can be adapted for different types of businesses.
+Additionally, a companion Android application was developed using React Native.
 
-### 🏢 Shared Fees Management App  
+- 🚀 **Live App:** [eshop](https://eshop.portfolio-projects.space/)
+- 🌐 **deployed client** [have an idea](https://haveanidea.gr)
 
-A **full-stack MERN + TypeScript** application for managing shared building expenses, built for a real client.  
-Admins upload monthly **Excel files** that are automatically parsed into **GlobalBills** and per-user **Bills**.  
-Users log in, view and pay their bills, upload receipts, and track balances.  
-Admins review payments, manage users, and send building-wide announcements.  
+#### 🍽️ Cafe Menu — QR Table Ordering System
+A restaurant ordering platform built as an extension of the e-commerce architecture.
+Customers scan a QR code at the table to access the digital menu, place orders, call service or pay directly from their mobile device.
+The admin panel manages tables, active sessions and incoming orders through socket-based real-time updates.
+The system focuses on real-time workflows and table-based ordering logic and is currently under active development.
+- 🍕 **Live App** [Cafe Menu](https://cafe.portfolio-projects.space/tables)
 
-- **Live App:** [sharedfeesproject.onrender.com](https://sharedfeesproject.onrender.com)  
-- **GitHub Repo:** [github.com/alkisax/sharedFeesProject](https://github.com/alkisax/sharedFeesProject)  
+#### 🛵 Delivery — Real-Time Kitchen Approval Workflow
+
+A delivery-oriented variation of the same architecture focused on order approval workflows.
+Before an order is finalized it must be approved by the kitchen through a socket-based workflow, enabling real-time communication between the ordering interface and the admin panel.
+This project was mainly developed as an experiment in real-time business workflows and order state management.
+- 🚚 **live App** [Delivery](https://delivery.portfolio-projects.space)
+
+### 🎨 Nikoleta Portfolio
+
+An ongoing Next.js portfolio project for a fine arts graduate, focused on custom presentation of visual artwork.  
+The project includes custom UI components, color-scroll interactions, image transitions, and collaboration with a graphic designer and animation creator for the loading experience.
+
+- **Live App:** [nikoleta.portfolio-projects.space](https://nicoleta.portfolio-projects.space)
+- **Status:** Ongoing
+
+### 🏢 Shared Fees Management App
+
+A full-stack MERN + TypeScript application built for real-world shared building expense management.  
+Admins can create buildings and apartments, upload Excel files with monthly expenses, and automatically generate bills for tenants through a parsing workflow.
+
+Users can log in, view what they owe, upload payment receipts as files or images, and track payment status.  
+The system also supports email notifications and admin-side management workflows.  
+A companion React Native Android app was developed for mobile use on top of the same backend.
+
+- **Live App:** [sharedfeesproject](https://portfolio-projects.space/shared-fees/)
+- **GitHub Repo:** [github.com/alkisax/sharedFeesProject](https://github.com/alkisax/sharedFeesProject)
 - **README:** [README.md](https://github.com/alkisax/sharedFeesProject/blob/main/README.md)
 
 ### 🧠 KuhnGPT — Chat with *The Structure of Scientific Revolutions*
@@ -82,21 +122,9 @@ Admins review payments, manage users, and send building-wide announcements.
 **KuhnGPT** lets you have a conversation with Thomas Kuhn’s *The Structure of Scientific Revolutions* using a custom Retrieval-Augmented Generation pipeline.  
 The system indexes every paragraph of the book, vectorizes it using OpenAI embeddings, and allows the user to query and receive grounded answers with cited excerpts.
 
-- **live app:** [ragkuhnchatwithdocument.onrender.com](https://ragkuhnchatwithdocument.onrender.com)
+- **live app:** [rag kuhn chat with document](https://portfolio-projects.space)
 - **github repo:** [github.com/alkisax/ragKuhnChatWithDocument](https://github.com/alkisax/ragKuhnChatWithDocument)
 
-### 🛒 E-Shop Project (Prototype)  
-A **full-stack e-commerce prototype built with the MERN stack + TypeScript**.  
-Supports **multi-provider login** (custom JWT, Google, GitHub, Appwrite) with role-based access (guest/user/admin).  
-Includes **store with categories & search**, product pages with **ratings, comments, multi-image gallery**, and **Stripe checkout** (card & GPay).  
-Admin panel provides **CRUD for users, categories, commodities, and announcements**, plus **Appwrite file & image uploads**.  
-💡 AI-powered features: **chat moderation (GPT wrapper)** and **semantic search with OpenAI embeddings** for finding similar commodities.  
-Extra integrations: **Google Analytics (GA4), Looker Studio dashboards, and Google Maps iframe**.  
-
-- 🚀 **Live App:** [https://eshop.portfolio-projects.space/](https://eshop.portfolio-projects.space/)  
-- 💻 **GitHub Repo:** [github.com/alkisax/eshopProject](https://github.com/alkisax/eshopProject)  
-
-**Tech Stack:** React, Node.js, Express, MongoDB, TypeScript, MUI, Stripe, Appwrite, OpenAI, Jest, Cypress, GitHub Actions.  
 
 ### 📌 Blog & Dashboard CMS
 This project is a **full-stack blog CMS - content management system built with the MERN stack** (MongoDB, Express, React, Node.js).  
@@ -111,23 +139,27 @@ The **homepage** displays a welcome message, all pinned posts, and the **latest 
 
 ### 🔮🔮 Biased Tarot Application
 This project is a full-stack application built using the **MERN stack** (MongoDB, Express, React, Node.js). It combines Tarot card readings powered by GPT, secure login functionality, and donation management.
-The app is live at **[Biased Tarot Revisited](https://revistedtarotbiasapp.onrender.com)**  
+The app is live at **[Biased Tarot Revisited](https://portfolio-projects.space/biased-tarot/)**  
 📖 **Full development guide:** [instructions.md](https://github.com/alkisax/revistedTarotBiasApp/blob/main/instructions.md)  
 **github rep** [github](https://github.com/alkisax/revistedTarotBiasApp/tree/main)
 **App screenshots** [screenshots](https://github.com/alkisax/revistedTarotBiasApp/tree/main/appScreenshots)
 **README** [README](https://github.com/alkisax/revistedTarotBiasApp/blob/main/README.MD)
 
-### 🔐 LoginApp
-A secure full-stack authentication system built with React, Node.js, Express, and MongoDB. This app was created as a reusable component for a generic log in usage in future apps. Supports user registration, login with JWT, Google OAuth login, and role-based access control. Features include hashed passwords, token verification, and protected API routes. Apart from the read me, includes a full analytical tutorial of how the app was created (testing username: alkisax, password: 123)
+### 🎁 Secret Santa Organizer
 
-- **[Live Demo](https://loginapp-tjlf.onrender.com) / [Source Code - https://github.com/alkisax/loginAPP/](https://github.com/alkisax/loginAPP/) / [Full README](https://github.com/alkisax/loginAPP/blob/main/README2.MD) / [Tutorial](https://github.com/alkisax/loginAPP/blob/main/README.MD)**
+A lightweight MERN application created to automate Secret Santa events.
 
+Users provide names and email addresses of participants and the system performs a random assignment and sends each participant an email informing them who they should prepare a gift for.
+
+The project was built quickly as a small utility application and demonstrates email workflows and simple matching logic.
+- The app is live at **[secret santa & team creator](https://hiddenlottery.portfolio-projects.space)**  
 
 ### 🧮 Calculator App
 A fully functional calculator app that allows users to perform basic arithmetic operations, including support for unary operators and handling of consecutive operators.
 - **[Live Demo](https://lnkd.in/dimiVhy6)** / **[Source Code](https://lnkd.in/demXJx8m)** / **[Full README](https://lnkd.in/dwMByXYd)**
 
-## Angular projects:
+## 🧪 Additional Learning Projects
+### Angular projects:
 ### 🅰️ Angular Todo & Weather App  
 A modern **full-stack learning project** built with **Angular 19** (frontend) and **Node.js/Express/MongoDB** (backend). Combines **weather API integration**, a **random number generator**, and a complete **CRUD Todo system**. Focuses on Angular's **new control flow syntax (@if/@for)**, **Angular Material UI**, and backend **API documentation with Swagger**.  
 
@@ -137,7 +169,7 @@ A modern **full-stack learning project** built with **Angular 19** (frontend) an
 📄 [Full README](https://github.com/alkisax/simpleTodoAngularApp/blob/main/README.md)  
 [swagger api-docs](https://simpletodoangularapp.onrender.com/api-docs/)
 
-## Laravel projects:
+### Laravel projects:
 ## 🧱 Simple ToDo & Weather client & random number app
 ###  Laravel Learning Project - Todo App with Weather & Random Generator
 A practical Laravel Blade project demonstrating foundational concepts of PHP and Laravel through a full-stack web application.  
@@ -149,6 +181,10 @@ A practical Laravel Blade project demonstrating foundational concepts of PHP and
 ## Java CLI projects:
 ### ❌⭕ Tic-Tac-Toe (Java CLI)
 A simple command-line Tic-Tac-Toe game implemented in Java, where two players take turns placing their marks on a 3x3 grid. The game ensures valid moves, detects wins, and handles draws.
+Later I revisited the same project and rebuilt it as a **real-time web application using Node.js, React and Socket.io**, allowing two players to connect and play from their browsers while communicating through a basic chat room.
+
+**Live app** [sockets](https://socket.portfolio-projects.space)
+
 [Source Code](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise104/Exercise104.java) / [Game Output](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise104/copyFromTerminalExercise104.txt) / [Full README](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise104/README.md)
 ### 🎭 Theater Seat Booking System (Java CLI)
 A command-line application for managing seat bookings in a theater with 30 rows and 12 columns. Users can book and cancel seats, with real-time validation to prevent double-booking or invalid selections.
