@@ -117,7 +117,6 @@ The **homepage** displays a welcome message, all pinned posts, and the **latest 
 ### 🔮🔮 Biased Tarot Application
 This project is a full-stack application built using the **MERN stack** (MongoDB, Express, React, Node.js). It combines Tarot card readings powered by GPT, secure login functionality, and donation management.
 The app is live at **[Biased Tarot Revisited](https://portfolio-projects.space/biased-tarot/)**  
-📖 **Full development guide:** [instructions.md](https://github.com/alkisax/revistedTarotBiasApp/blob/main/instructions.md)  
 **github rep** [github](https://github.com/alkisax/revistedTarotBiasApp/tree/main)
 **App screenshots** [screenshots](https://github.com/alkisax/revistedTarotBiasApp/tree/main/appScreenshots)
 **README** [README](https://github.com/alkisax/revistedTarotBiasApp/blob/main/README.MD)
@@ -142,7 +141,6 @@ A modern **full-stack learning project** built with **Angular 19** (frontend) an
 
 🔗 [Live Demo](https://simpletodoangularapp.onrender.com/)  
 📁 [GitHub Repository](https://github.com/alkisax/simpleTodoAngularApp)  
-📘 [Step-by-Step Guide](https://github.com/alkisax/simpleTodoAngularApp/blob/main/instractionsTodoAngular.md)  
 📄 [Full README](https://github.com/alkisax/simpleTodoAngularApp/blob/main/README.md)  
 [swagger api-docs](https://simpletodoangularapp.onrender.com/api-docs/)
 
@@ -153,7 +151,6 @@ A practical Laravel Blade project demonstrating foundational concepts of PHP and
 🔗 app is live at [simpleToDoLaravel](https://simpletodolaravel.onrender.com)  
 📁 [GitHub Repository](https://github.com/alkisax/simpleTodoLaravel)  
 📄 [README.md](https://github.com/alkisax/simpleTodoLaravel/blob/main/README.md)  
-📘 step by step instructions md of how the app was made [Instructions](https://github.com/alkisax/simpleTodoLaravel/blob/main/todoInstructionsLaravel.md)
 
 ## Java CLI projects:
 ### ❌⭕ Tic-Tac-Toe (Java CLI)
