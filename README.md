@@ -114,6 +114,27 @@ The **homepage** displays a welcome message, all pinned posts, and the **latest 
 - **GitHub Repo:** [https://github.com/alkisax/BlogAndDashboard](https://github.com/alkisax/BlogAndDashboard)  
 - **README:** [README.md](https://github.com/alkisax/BlogAndDashboard/blob/main/README.md)
 
+### 🌌 Astro Lark — React Native Astrology + LLM Mobile App
+
+A React Native Android application focused on astrology calculations, chart rendering and AI-generated interpretations.  
+The project combines traditional natal chart calculations with LLM-powered structured interpretations and compatibility analysis.
+The application was built with React Native, Node.js and SQLite and deployed through Expo/EAS builds.  
+It includes JWT authentication, AdMob rewarded ads, persistent user profiles and backend deployment on a Hetzner VPS.
+Users can generate natal charts using birth date, time and coordinates, store profiles and request AI-generated interpretations through structured prompts.  
+Additional features include synastry/relationship compatibility analysis and future transit question workflows.
+The project also explored several mobile-specific engineering challenges such as:
+- React Native ↔ backend communication
+- mobile logging pipelines
+- WebView-based SVG chart rendering
+- markdown rendering for LLM responses
+- Play Store deployment/testing workflows
+Main libraries used:
+- astrodraw/astrochart
+- circular-natal-horoscope-js
+
+**Google Play Open Test:**  
+[google play](https://play.google.com/apps/testing/com.alkis.astrolark)
+
 ### 🔮🔮 Biased Tarot Application
 This project is a full-stack application built using the **MERN stack** (MongoDB, Express, React, Node.js). It combines Tarot card readings powered by GPT, secure login functionality, and donation management.
 The app is live at **[Biased Tarot Revisited](https://portfolio-projects.space/biased-tarot/)**  
