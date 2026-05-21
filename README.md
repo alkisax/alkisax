@@ -14,7 +14,7 @@ I work mainly on custom business software, e-commerce systems, admin dashboards,
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,typescript,html,css,react,nextjs,angular,laravel,nodejs,mongodb,sql,github,postman,nginx,cypress,jest&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,typescript,dotnet,html,css,react,nextjs,angular,laravel,nodejs,mongodb,sql,github,postman,nginx,cypress,jest&theme=dark&perline=7" />
 </p>
 
 ## 🌟 Skills
@@ -39,6 +39,16 @@ I work mainly on custom business software, e-commerce systems, admin dashboards,
 - **MOOC.fi**: [Java Programming II](https://certificates.mooc.fi/validate/5mk7hj9qri)
 
 ## 🚀 Projects
+## .NET projects:
+### 📱 Offline First Notes — React Native + .NET + SQLite
+
+An Android offline-first notes application built with React Native, C#/.NET and SQLite.
+The app stores notes locally using SQLite and synchronizes them with a separate SQLite database on the .NET backend when internet becomes available.
+- Features include markdown rendering, note themes, light/dark mode, SVG animations and conflict-aware PUSH → PULL synchronization logic using timestamps.
+- The project was mainly developed as an experiment in offline-first architecture, mobile persistence and synchronization workflows rather than a simple CRUD app.
+**Google Play Open Test:**  
+https://play.google.com/apps/testing/com.alkisax.nativeofflinefirstnotes
+
 ## REACT projects:
 ### 🛒 Commerce & Ordering Systems
 ### 🛍️ Έχω Μια Ιδέα — Custom MERN E-Commerce Platform
@@ -114,7 +124,7 @@ The **homepage** displays a welcome message, all pinned posts, and the **latest 
 - **GitHub Repo:** [https://github.com/alkisax/BlogAndDashboard](https://github.com/alkisax/BlogAndDashboard)  
 - **README:** [README.md](https://github.com/alkisax/BlogAndDashboard/blob/main/README.md)
 
-### 🌌 Astro Lark — React Native Astrology + LLM Mobile App
+### 🌌 Astro Lark - React Native Astrology + LLM Mobile App
 
 A React Native Android application focused on astrology calculations, chart rendering and AI-generated interpretations.  
 The project combines traditional natal chart calculations with LLM-powered structured interpretations and compatibility analysis.
