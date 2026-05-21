@@ -19,7 +19,7 @@ I work mainly on custom business software, e-commerce systems, admin dashboards,
 
 ## 🌟 Skills
 
-- **Languages**: Python, Java, php, JavaScript/Typescript
+- **Languages**: JavaScript/Typescript, C#, Python, Java, php, 
 - **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular
 - **Backend**: Node.js, Express, Laravel 
 - **Databases**: MongoDB, SQL
