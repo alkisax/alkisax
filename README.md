@@ -20,10 +20,10 @@ I work mainly on custom business software, e-commerce systems, admin dashboards,
 ## 🌟 Skills
 
 - **Languages**: JavaScript/Typescript, C#, Python, Java, php, 
-- **Frontend**: HTML, CSS, Bootstrap, React, Redux, Angular
-- **Backend**: Node.js, Express, Laravel 
+- **Frontend**: HTML, CSS, React
+- **Backend**: Node.js, Express 
 - **Databases**: MongoDB, SQL
-- **Tools**: GitHub, Github actions, Postman, Render, Cypress, Jest, Swagger
+- **Tools**: GitHub, Github actions, Postman, Render, Cypress, Jest
 
 ## 🎓 Certificates & Online Education
 
@@ -58,7 +58,6 @@ The app supports live websocket-based Morse communication between users, interac
 
 
 ### 📱 Offline First Notes — React Native + .NET + SQLite
-
 An Android offline-first notes application built with React Native, C#/.NET and SQLite.
 The app stores notes locally using SQLite and synchronizes them with a separate SQLite database on the .NET backend when internet becomes available.
 - Features include markdown rendering, note themes, light/dark mode, SVG animations and conflict-aware PUSH → PULL synchronization logic using timestamps.
