@@ -63,6 +63,7 @@ An Android offline-first notes application built with React Native, C#/.NET and 
 The app stores notes locally using SQLite and synchronizes them with a separate SQLite database on the .NET backend when internet becomes available.
 - Features include markdown rendering, note themes, light/dark mode, SVG animations and conflict-aware PUSH → PULL synchronization logic using timestamps.
 - The project was mainly developed as an experiment in offline-first architecture, mobile persistence and synchronization workflows rather than a simple CRUD app.
+  
 **Google Play Open Test:**  
 https://play.google.com/apps/testing/com.alkisax.nativeofflinefirstnotes
 <p align="center">
