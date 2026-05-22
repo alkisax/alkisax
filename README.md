@@ -40,6 +40,19 @@ I work mainly on custom business software, e-commerce systems, admin dashboards,
 
 ## 🚀 Projects
 ## .NET projects:
+### 📡 Morse Trainer — React Native + .NET SignalR
+A realtime Morse code communication and training application built with React Native (Expo) and a C#/.NET SignalR backend.
+The app supports live websocket-based Morse communication between users, interactive Morse visualization, audio playback and multiplayer room synchronization across mobile and web clients.
+- Built with ASP.NET Core SignalR hubs, realtime room management and websocket communication between devices.
+- The entire Morse visualization interface is rendered dynamically through a custom interactive SVG Morse tree built with `react-native-svg`.
+- Inspired by a handheld Morse training device shown online by the non-affiliate company Nux Modellbau, later expanded into a multiplayer realtime Morse training system for mobile and web → https://nux-modellbau.de/gadgets/
+- Focused on realtime systems, SignalR architecture, websocket communication, reconnect handling, cross-platform synchronization and deployment with Nginx/PM2 on Hetzner.
+- Includes production HTTPS deployment and Google Play Store Open Testing distribution for Android devices.
+
+**Google Play Open Test:**  
+[TBA]
+
+
 ### 📱 Offline First Notes — React Native + .NET + SQLite
 
 An Android offline-first notes application built with React Native, C#/.NET and SQLite.
