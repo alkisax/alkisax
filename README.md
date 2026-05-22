@@ -51,6 +51,10 @@ The app supports live websocket-based Morse communication between users, interac
 
 **Google Play Open Test:**  
 [TBA]
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc7f18f4-5dd8-4861-8b5d-88fd5e9f2c11" width="60" />
+  <img src="https://github.com/user-attachments/assets/53f1e268-ea71-4803-88dd-9a3f1bbc9d09" width="60" />
+</p>
 
 
 ### 📱 Offline First Notes — React Native + .NET + SQLite
@@ -61,6 +65,11 @@ The app stores notes locally using SQLite and synchronizes them with a separate 
 - The project was mainly developed as an experiment in offline-first architecture, mobile persistence and synchronization workflows rather than a simple CRUD app.
 **Google Play Open Test:**  
 https://play.google.com/apps/testing/com.alkisax.nativeofflinefirstnotes
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d23e2c9c-5f72-49f8-9052-2c9e866b2d16" width="60" />
+  <img src="https://github.com/user-attachments/assets/53662df7-4d13-4920-b053-1a0f5c833ff0" width="60" />
+  <img src="https://github.com/user-attachments/assets/8a18fb5d-200b-4312-8715-183aa0caf27d" width="60" />
+</p>
 
 ## REACT projects:
 ### 🛒 Commerce & Ordering Systems
