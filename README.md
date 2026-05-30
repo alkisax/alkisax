@@ -86,6 +86,10 @@ Additionally, a companion Android application was developed using React Native.
 - 🚀 **Live App:** [eshop](https://eshop.portfolio-projects.space/)
 - 🌐 **deployed client** [have an idea](https://haveanidea.gr)
 
+<img width="60" alt="Image" src="https://github.com/user-attachments/assets/238f60f8-e40e-4980-b5aa-ce2c83916b77" />
+<img width="60" alt="Image" src="https://github.com/user-attachments/assets/1edc1c59-ec58-4fe1-a5ce-1fed5b13540c" />
+
+
 #### 🍽️ Cafe Menu — QR Table Ordering System
 A restaurant ordering platform built as an extension of the e-commerce architecture.
 Customers scan a QR code at the table to access the digital menu, place orders, call service or pay directly from their mobile device.
