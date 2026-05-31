@@ -88,6 +88,8 @@ Additionally, a companion Android application was developed using React Native.
 
 <img width="60" alt="Image" src="https://github.com/user-attachments/assets/238f60f8-e40e-4980-b5aa-ce2c83916b77" />
 <img width="60" alt="Image" src="https://github.com/user-attachments/assets/1edc1c59-ec58-4fe1-a5ce-1fed5b13540c" />
+<img width="60" alt="Image" src="https://github.com/user-attachments/assets/2b3038ee-ca7b-4e4f-92cb-5e7891c862c1" />
+<img width="60" alt="Image" src="https://github.com/user-attachments/assets/a927121c-636f-4875-ac9b-457c20e705ff" />
 
 
 #### 🍽️ Cafe Menu — QR Table Ordering System
