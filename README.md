@@ -173,6 +173,8 @@ Main libraries used:
 **Google Play Open Test:**  
 [google play](https://play.google.com/apps/testing/com.alkis.astrolark)
 
+<img width="60" alt="Image" src="https://github.com/user-attachments/assets/a0c60c82-68ea-4a88-bb96-c6b1df48b482" />
+
 ### 🔮🔮 Biased Tarot Application
 This project is a full-stack application built using the **MERN stack** (MongoDB, Express, React, Node.js). It combines Tarot card readings powered by GPT, secure login functionality, and donation management.
 The app is live at **[Biased Tarot Revisited](https://portfolio-projects.space/biased-tarot/)**  
