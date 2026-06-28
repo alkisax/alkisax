@@ -49,8 +49,8 @@ The app supports live websocket-based Morse communication between users, interac
 - Focused on realtime systems, SignalR architecture, websocket communication, reconnect handling, cross-platform synchronization and deployment with Nginx/PM2 on Hetzner.
 - Includes production HTTPS deployment and Google Play Store Open Testing distribution for Android devices.
 
-**Google Play Open Test:**  
-[TBA]
+**Google Play:**  
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.alkisax.nativemorsetrainer)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cc7f18f4-5dd8-4861-8b5d-88fd5e9f2c11" width="60" />
   <img src="https://github.com/user-attachments/assets/53f1e268-ea71-4803-88dd-9a3f1bbc9d09" width="60" />
