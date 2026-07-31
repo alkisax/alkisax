@@ -226,7 +226,7 @@ A command-line application for managing seat bookings in a theater with 30 rows 
 [Source Code](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise105/Exercise105.java) / [App output](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise105/copyFromTerminalExercise105.txt) / [Full README](https://github.com/alkisax/kopakakisExercises/blob/main/Exercise105/README.md)
 
 ## 📊 GitHub Stats
-
+![Codewars Badge](https://www.codewars.com/users/alkisax/badges/micro)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkisax&layout=compact&theme=radical" alt="Most Used Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkisax&theme=radical" alt="GitHub Streak" />
