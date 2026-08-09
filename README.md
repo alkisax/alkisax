@@ -228,8 +228,9 @@ A command-line application for managing seat bookings in a theater with 30 rows 
 ## 📊 GitHub Stats
 ![Codewars Badge](https://www.codewars.com/users/alkisax/badges/micro)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkisax&layout=compact&theme=radical" alt="Most Used Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkisax&theme=radical" alt="GitHub Streak" />
+  <Br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkisax&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ## 🗣️ Languages
