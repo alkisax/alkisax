@@ -40,7 +40,23 @@ I work mainly on custom business software, e-commerce systems, admin dashboards,
 
 ## 🚀 Projects
 ## .NET projects:
-### 📡 Morse Trainer — React Native + .NET SignalR
+### 🎫 MyTurn - Queue Management system (QMS)
+MyTurn is a digital queue management platform built with .NET, React and React Native.
+
+Businesses can manage locations, queues, desks and staff, while customers can issue digital tickets remotely or from a kiosk, track their waiting time and follow realtime number displays powered by SignalR.
+
+The project was my first implementation of a multi-tenant architecture. It also includes JWT role-based authorization, ticket lifecycle management, analytics, PDF/email tickets and automated backend testing. 
+
+The Android app has completed the Google Play deployment process and is now available on Google Play.
+**Google Play**
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.alkisax.myturn)
+<p align="center">
+<img width="60" alt="Image" src="https://github.com/user-attachments/assets/4952f4d8-1024-4a76-b321-381834472e26" />
+<img width="60" alt="Image" src="https://github.com/user-attachments/assets/1bc679f9-1959-415f-81d7-6830c8b9f412" />
+<img width="60" alt="Image" src="https://github.com/user-attachments/assets/17c8f7f7-2a99-4116-b669-6c87ca4f253c" />
+</p>
+
+### 📡 Morse Trainer - React Native + .NET SignalR
 A realtime Morse code communication and training application built with React Native (Expo) and a C#/.NET SignalR backend.
 The app supports live websocket-based Morse communication between users, interactive Morse visualization, audio playback and multiplayer room synchronization across mobile and web clients.
 - Built with ASP.NET Core SignalR hubs, realtime room management and websocket communication between devices.
