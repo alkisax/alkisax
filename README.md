@@ -108,12 +108,19 @@ Additionally, a companion Android application was developed using React Native.
 <img width="60" alt="Image" src="https://github.com/user-attachments/assets/a927121c-636f-4875-ac9b-457c20e705ff" />
 
 
-#### 🍽️ Cafe Menu — QR Table Ordering System
-A restaurant ordering platform built as an extension of the e-commerce architecture.
-Customers scan a QR code at the table to access the digital menu, place orders, call service or pay directly from their mobile device.
-The admin panel manages tables, active sessions and incoming orders through socket-based real-time updates.
-The system focuses on real-time workflows and table-based ordering logic and is currently under active development.
-- 🍕 **Live App** [Cafe Menu](https://cafe.portfolio-projects.space/tables)
+#### 🍽️ Cafe Menu / MyPDA — QR Table Ordering System
+A restaurant ordering platform with a published Android application on Google Play, built as an extension of an e-commerce architecture.
+Customers scan a QR code at their table to access the digital menu, place orders, call service or pay directly from their mobile device.
+The admin and staff panels manage tables, active sessions, incoming orders and payments through socket-based real-time updates.
+Built with React Native, React, Node.js, TypeScript, MongoDB and Socket.IO. The system focuses on multi-tenant architecture, real-time workflows and table-based ordering logic.
+- 📱 [**Google Play**](https://play.google.com/store/apps/details?id=com.alkisax.mypda)
+- 🌐 [**App Promotion**](https://cafe.portfolio-projects.space/app-promotion/)
+- 🍕 [**Live Web App**](https://cafe.portfolio-projects.space/tables)
+
+<img width="60" alt="MyPDA screenshot 1" src="https://github.com/user-attachments/assets/197bd82e-bff0-4696-b49c-0ae87189f427" />
+<img width="60" alt="MyPDA screenshot 2" src="https://github.com/user-attachments/assets/9d9ed058-b626-4adc-b67f-7f17ec05d142" />
+<img width="60" alt="MyPDA screenshot 3" src="https://github.com/user-attachments/assets/6a85eef7-3407-46be-9147-554d49244b69" />
+<img width="60" alt="MyPDA screenshot 4" src="https://github.com/user-attachments/assets/24896923-cfff-4681-a32d-6341605cd209" />
 
 #### 🛵 Delivery — Real-Time Kitchen Approval Workflow
 
