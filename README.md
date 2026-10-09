@@ -65,7 +65,7 @@ The app supports live websocket-based Morse communication between users, interac
   <img src="https://github.com/user-attachments/assets/53f1e268-ea71-4803-88dd-9a3f1bbc9d09" width="60" />
 </p>
 
-### ✏️ Pen and Paper Games — React Native + .NET SignalR
+### ✏️ Pen and Paper Games - React Native + .NET SignalR
 
 A collection of classic pen-and-paper games built with React Native. This project was mainly created to practice interactive SVG boards and real-time multiplayer using a reusable .NET SignalR backend.
 Players can play locally, against a simple AI, or online through shared rooms with built-in chat.
@@ -81,7 +81,7 @@ Inspired by the **Tabletop Family** YouTube channel.
   <img width="60" alt="Screenshot 5" src="https://github.com/user-attachments/assets/5aa381fb-9b3c-4cfd-a9c0-f18e04fe088d" />
 </p>
 
-### 📱 Offline First Notes — React Native + .NET + SQLite
+### 📱 Offline First Notes - React Native + .NET + SQLite
 An Android offline-first notes application built with React Native, C#/.NET and SQLite.
 The app stores notes locally using SQLite and synchronizes them with a separate SQLite database on the .NET backend when internet becomes available.
 - Features include markdown rendering, note themes, light/dark mode, SVG animations and conflict-aware PUSH → PULL synchronization logic using timestamps.
@@ -97,7 +97,7 @@ https://play.google.com/apps/testing/com.alkisax.nativeofflinefirstnotes
 
 ## REACT projects:
 ### 🛒 Commerce & Ordering Systems
-### 🛍️ Έχω Μια Ιδέα — Custom MERN E-Commerce Platform
+### 🛍️ Έχω Μια Ιδέα - Custom MERN E-Commerce Platform
 A production-oriented full-stack e-commerce system built for a real handmade jewelry store.
 The platform is developed with the MERN stack and TypeScript and focuses on maintainability, admin usability and real-world business workflows.
 It includes a complete admin panel for managing products, categories and orders, as well as a customer-facing storefront.
@@ -117,7 +117,7 @@ Additionally, a companion Android application was developed using React Native.
   <img width="60" alt="Image" src="https://github.com/user-attachments/assets/a927121c-636f-4875-ac9b-457c20e705ff" />
 </p>
 
-#### 🍽️ Cafe Menu / MyPDA — QR Table Ordering System
+#### 🍽️ Cafe Menu / MyPDA - QR Table Ordering System
 A restaurant ordering platform with a published Android application on Google Play, built as an extension of an e-commerce architecture.
 Customers scan a QR code at their table to access the digital menu, place orders, call service or pay directly from their mobile device.
 The admin and staff panels manage tables, active sessions, incoming orders and payments through socket-based real-time updates.
@@ -133,7 +133,7 @@ Built with React Native, React, Node.js, TypeScript, MongoDB and Socket.IO. The 
   <img width="60" alt="MyPDA screenshot 4" src="https://github.com/user-attachments/assets/24896923-cfff-4681-a32d-6341605cd209" />
 </p>
 
-#### 🛵 Delivery — Real-Time Kitchen Approval Workflow
+#### 🛵 Delivery - Real-Time Kitchen Approval Workflow
 
 A delivery-oriented variation of the same architecture focused on order approval workflows.
 Before an order is finalized it must be approved by the kitchen through a socket-based workflow, enabling real-time communication between the ordering interface and the admin panel.
@@ -161,7 +161,7 @@ A companion React Native Android app was developed for mobile use on top of the 
 - **GitHub Repo:** [github.com/alkisax/sharedFeesProject](https://github.com/alkisax/sharedFeesProject)
 - **README:** [README.md](https://github.com/alkisax/sharedFeesProject/blob/main/README.md)
 
-### 🧠 KuhnGPT — Chat with *The Structure of Scientific Revolutions*
+### 🧠 KuhnGPT - Chat with *The Structure of Scientific Revolutions*
 
 **A Retrieval-Augmented Generation (RAG) app built with TypeScript and the MERN stack**
 
@@ -174,7 +174,7 @@ The system indexes every paragraph of the book, vectorizes it using OpenAI embed
 - **live app:** [rag kuhn chat with document](https://portfolio-projects.space)
 - **github repo:** [github.com/alkisax/ragKuhnChatWithDocument](https://github.com/alkisax/ragKuhnChatWithDocument)
 
-### 🎒 Learn the Greek Alphabet — Web & Android Learning App
+### 🎒 Learn the Greek Alphabet - Web & Android Learning App
 
 A small educational app aimed mainly at tourists and complete beginners who want to recognize the Greek alphabet and start reading simple Greek words. It includes 17 progressive lessons with Modern Greek pronunciation, letter combinations and interactive reading exercises. Built as separate React/Vite web and React Native/Expo Android applications, with the Android version published on Google Play.
 
