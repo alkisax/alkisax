@@ -65,6 +65,21 @@ The app supports live websocket-based Morse communication between users, interac
   <img src="https://github.com/user-attachments/assets/53f1e268-ea71-4803-88dd-9a3f1bbc9d09" width="60" />
 </p>
 
+### ✏️ Pen and Paper Games — React Native + .NET SignalR
+
+A collection of classic pen-and-paper games built with React Native. This project was mainly created to practice interactive SVG boards and real-time multiplayer using a reusable .NET SignalR backend.
+Players can play locally, against a simple AI, or online through shared rooms with built-in chat.
+Inspired by the **Tabletop Family** YouTube channel.
+**Google Play:**  
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.alkisax.penandpapergames)
+
+<p align="center">
+  <img width="60" alt="Screenshot 1" src="https://github.com/user-attachments/assets/faced7c9-e210-4586-a630-7435562fb557" />
+  <img width="60" alt="Screenshot 2" src="https://github.com/user-attachments/assets/359ed103-b858-4b81-920c-5d6d51723f44" />
+  <img width="60" alt="Screenshot 3" src="https://github.com/user-attachments/assets/77ae377a-cd98-41fc-99c3-e744d50ab994" />
+  <img width="60" alt="Screenshot 4" src="https://github.com/user-attachments/assets/2834a945-c0ac-40e2-93d1-dd2a32b0980d" />
+  <img width="60" alt="Screenshot 5" src="https://github.com/user-attachments/assets/5aa381fb-9b3c-4cfd-a9c0-f18e04fe088d" />
+</p>
 
 ### 📱 Offline First Notes — React Native + .NET + SQLite
 An Android offline-first notes application built with React Native, C#/.NET and SQLite.
@@ -95,11 +110,12 @@ Additionally, a companion Android application was developed using React Native.
 - 🚀 **Live App:** [eshop](https://eshop.portfolio-projects.space/)
 - 🌐 **deployed client** [have an idea](https://haveanidea.gr)
 
-<img width="60" alt="Image" src="https://github.com/user-attachments/assets/238f60f8-e40e-4980-b5aa-ce2c83916b77" />
-<img width="60" alt="Image" src="https://github.com/user-attachments/assets/1edc1c59-ec58-4fe1-a5ce-1fed5b13540c" />
-<img width="60" alt="Image" src="https://github.com/user-attachments/assets/2b3038ee-ca7b-4e4f-92cb-5e7891c862c1" />
-<img width="60" alt="Image" src="https://github.com/user-attachments/assets/a927121c-636f-4875-ac9b-457c20e705ff" />
-
+<p align="center">
+  <img width="60" alt="Image" src="https://github.com/user-attachments/assets/238f60f8-e40e-4980-b5aa-ce2c83916b77" />
+  <img width="60" alt="Image" src="https://github.com/user-attachments/assets/1edc1c59-ec58-4fe1-a5ce-1fed5b13540c" />
+  <img width="60" alt="Image" src="https://github.com/user-attachments/assets/2b3038ee-ca7b-4e4f-92cb-5e7891c862c1" />
+  <img width="60" alt="Image" src="https://github.com/user-attachments/assets/a927121c-636f-4875-ac9b-457c20e705ff" />
+</p>
 
 #### 🍽️ Cafe Menu / MyPDA — QR Table Ordering System
 A restaurant ordering platform with a published Android application on Google Play, built as an extension of an e-commerce architecture.
@@ -110,10 +126,12 @@ Built with React Native, React, Node.js, TypeScript, MongoDB and Socket.IO. The 
 - 🌐 [**App Promotion**](https://cafe.portfolio-projects.space/app-promotion/)
 - 🍕 [**Live Web App**](https://cafe.portfolio-projects.space/tables)
 
-<img width="60" alt="MyPDA screenshot 1" src="https://github.com/user-attachments/assets/197bd82e-bff0-4696-b49c-0ae87189f427" />
-<img width="60" alt="MyPDA screenshot 2" src="https://github.com/user-attachments/assets/9d9ed058-b626-4adc-b67f-7f17ec05d142" />
-<img width="60" alt="MyPDA screenshot 3" src="https://github.com/user-attachments/assets/6a85eef7-3407-46be-9147-554d49244b69" />
-<img width="60" alt="MyPDA screenshot 4" src="https://github.com/user-attachments/assets/24896923-cfff-4681-a32d-6341605cd209" />
+<p align="center">
+  <img width="60" alt="MyPDA screenshot 1" src="https://github.com/user-attachments/assets/197bd82e-bff0-4696-b49c-0ae87189f427" />
+  <img width="60" alt="MyPDA screenshot 2" src="https://github.com/user-attachments/assets/9d9ed058-b626-4adc-b67f-7f17ec05d142" />
+  <img width="60" alt="MyPDA screenshot 3" src="https://github.com/user-attachments/assets/6a85eef7-3407-46be-9147-554d49244b69" />
+  <img width="60" alt="MyPDA screenshot 4" src="https://github.com/user-attachments/assets/24896923-cfff-4681-a32d-6341605cd209" />
+</p>
 
 #### 🛵 Delivery — Real-Time Kitchen Approval Workflow
 
@@ -156,6 +174,18 @@ The system indexes every paragraph of the book, vectorizes it using OpenAI embed
 - **live app:** [rag kuhn chat with document](https://portfolio-projects.space)
 - **github repo:** [github.com/alkisax/ragKuhnChatWithDocument](https://github.com/alkisax/ragKuhnChatWithDocument)
 
+### 🎒 Learn the Greek Alphabet — Web & Android Learning App
+
+A small educational app aimed mainly at tourists and complete beginners who want to recognize the Greek alphabet and start reading simple Greek words. It includes 17 progressive lessons with Modern Greek pronunciation, letter combinations and interactive reading exercises. Built as separate React/Vite web and React Native/Expo Android applications, with the Android version published on Google Play.
+
+- 🌐 **Live Web App:** [Learn the Greek Alphabet](https://learngreekalphabet.gr/)
+- 📱 **Google Play:** [Learn the Greek Alphabet](https://play.google.com/store/apps/details?id=com.alkisax.learngreekalphabet)
+
+<p align="center">
+  <img width="60" alt="Screenshot 1" src="https://github.com/user-attachments/assets/73d16721-426e-41dc-8822-c51ac0e87ace" />
+  <img width="60" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b7d581f9-a706-41e8-a8af-7a51115c3a1f" />
+  <img width="60" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ccb74a1c-f944-4a3d-8e46-ab97e52994ab" />
+</p>
 
 ### 📌 Blog & Dashboard CMS
 This project is a **full-stack blog CMS - content management system built with the MERN stack** (MongoDB, Express, React, Node.js).  
@@ -189,7 +219,9 @@ Main libraries used:
 **Google Play Open Test:**  
 [google play](https://play.google.com/apps/testing/com.alkis.astrolark)
 
-<img width="60" alt="Image" src="https://github.com/user-attachments/assets/a0c60c82-68ea-4a88-bb96-c6b1df48b482" />
+<p align="center">
+  <img width="60" alt="Image" src="https://github.com/user-attachments/assets/a0c60c82-68ea-4a88-bb96-c6b1df48b482" />
+</p>
 
 ### 🔮🔮 Biased Tarot Application
 This project is a full-stack application built using the **MERN stack** (MongoDB, Express, React, Node.js). It combines Tarot card readings powered by GPT, secure login functionality, and donation management.
