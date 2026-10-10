@@ -32,6 +32,10 @@ I work mainly on custom business software, e-commerce systems, admin dashboards,
 - **FreeCodeCamp**: [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/PelopidasKopakakis/javascript-algorithms-and-data-structures-v8) - [Front End Development Libraries](https://www.freecodecamp.org/certification/PelopidasKopakakis/front-end-development-libraries)
 
 ## 🚀 Projects
+### 📱 Published Android Apps
+My published Android applications are available on Google Play.
+[View my apps on Google Play](https://play.google.com/store/apps/dev?id=8882568013791376276)
+
 ## .NET projects:
 ### 🎫 MyTurn - Queue Management system (QMS)
 MyTurn is a digital queue management platform built with .NET, React and React Native.
