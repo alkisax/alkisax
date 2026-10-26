@@ -5,8 +5,8 @@ I work mainly on custom business software, e-commerce systems, admin dashboards,
 
 ## 🎓 Education
 
+- **[MSc in Informatics and Applications](http://msc-ict.uniwa.gr/οδηγός-σπουδών/)**, University of West Attica (2026–Present)
 - **[AUEB Coding Factory](https://codingfactory.aueb.gr)**
-
 - **MSc in History and Philosophy of Science**
 - **BSc in Material Science**, University of Patras
 - **BSc in Social Anthropology**, Panteion University (Athens)
