@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Πελοπίδας Κοπακάκης (Pelopidas Kopakakis)
 
-Full-stack developer focused on building real-world web applications with the MERN stack, Next.js and React Native.  
-I work mainly on custom business software, e-commerce systems, admin dashboards, payments, real-time workflows and production deployments.  
+Software developer building web and mobile applications with React, React Native, Node.js, TypeScript, and .NET.  
 
 ## 🎓 Education
 
